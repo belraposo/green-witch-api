@@ -5,7 +5,7 @@ export const Container  = styled.div`
    color: #ffffff;
    font-family: 'Cinzel', serif;
 
-   body {
+   >section {
       width: 100%;
 
       section:first-child {
